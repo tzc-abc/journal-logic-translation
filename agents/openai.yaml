@@ -1,0 +1,4 @@
+interface:
+  display_name: "Journal Logic Translation"
+  short_description: "Translate Chinese drafts with target-journal logic"
+  default_prompt: "Use $journal-logic-translation to translate my Chinese manuscript draft into target-journal-aligned SCI English."
